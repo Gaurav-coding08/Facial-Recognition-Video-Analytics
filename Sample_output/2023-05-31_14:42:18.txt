@@ -1,0 +1,46 @@
+multiple Face Detected:0.9657
+Face match:0.9657
+Face match:0.9657
+multiple Face Detected:1.9647000000000001
+Face match:1.9647000000000001
+multiple Face Detected:2.9637000000000002
+Face match:2.9637000000000002
+Face mismatch2.9637000000000002
+Face match:3.9627000000000003
+Face match:4.9617
+Face match:5.9607
+Face match:6.959700000000001
+Face match:7.9587
+multiple Face Detected:8.9577
+Face match:8.9577
+Face match:8.9577
+multiple Face Detected:9.9567
+Face match:9.9567
+Face mismatch9.9567
+multiple Face Detected:10.9557
+Face mismatch10.9557
+Face match:10.9557
+Face mismatch12.953700000000001
+multiple Face Detected:13.9527
+Face mismatch13.9527
+Face mismatch13.9527
+multiple Face Detected:14.9517
+Face match:14.9517
+Face mismatch14.9517
+multiple Face Detected:15.950700000000001
+Face match:15.950700000000001
+Face mismatch15.950700000000001
+multiple Face Detected:16.9497
+Face match:16.9497
+Face match:16.9497
+multiple Face Detected:17.948700000000002
+Face match:17.948700000000002
+Face mismatch17.948700000000002
+multiple Face Detected:18.9477
+Face match:18.9477
+Face match:18.9477
+Face match:19.9467
+Face match:20.945700000000002
+
+RESULTS ARE ABOVE
+

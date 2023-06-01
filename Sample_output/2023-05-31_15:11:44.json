@@ -1,0 +1,49 @@
+{
+    "video_id": "2023-05-31_15:11:44",
+    "face_match": "false",
+    "multi_face_detected": "true",
+    "multi_face_detailed_report": [
+        {
+            "start_timestamp": 27.93876666666667,
+            "multi_face_detected": "true"
+        },
+        {
+            "start_timestamp": 28.93776666666667,
+            "multi_face_detected": "true"
+        },
+        {
+            "start_timestamp": 29.936766666666667,
+            "multi_face_detected": "true"
+        },
+        {
+            "start_timestamp": 30.93576666666667,
+            "multi_face_detected": "true"
+        }
+    ],
+    "face_mismatch_detailed_report": [
+        {
+            "start_timestamp": 25.940733333333334,
+            "face_mismatch_detected": "true"
+        },
+        {
+            "start_timestamp": 26.939766666666667,
+            "face_mismatch_detected": "true"
+        },
+        {
+            "start_timestamp": 27.93876666666667,
+            "face_mismatch_detected": "true"
+        },
+        {
+            "start_timestamp": 28.93776666666667,
+            "face_mismatch_detected": "true"
+        },
+        {
+            "start_timestamp": 29.936766666666667,
+            "face_mismatch_detected": "true"
+        },
+        {
+            "start_timestamp": 30.93576666666667,
+            "face_mismatch_detected": "true"
+        }
+    ]
+}
